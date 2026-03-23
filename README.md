@@ -1,3 +1,11 @@
+# RoadBound
+
+> Multiplayer city simulation with 30K worker agents
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`citybound/citybound`](https://github.com/citybound/citybound).
+
+---
+
 <img src="cb.png" alt="Citybound" width="192"/>
 
 Citybound is a city building game with a focus on realism, collaborative planning and simulation of microscopic details. It is independently developed, open source and funded through Patreon.
